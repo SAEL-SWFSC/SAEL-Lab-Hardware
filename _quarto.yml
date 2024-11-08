@@ -33,6 +33,10 @@ website:
     contents:
       - href: index.qmd
         text: Home
+      - href: content/towed-hydrophone.qmd
+        text: Towed Hydrophones
+      - href: content/sonobuoys.qmd
+        text: Sonobuoys
       - href: content/handheld-hydrophone.qmd
         text: Handheld Hydrophone
 

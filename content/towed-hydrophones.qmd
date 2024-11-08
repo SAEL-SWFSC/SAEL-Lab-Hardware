@@ -1,0 +1,15 @@
+---
+title: Towed Array
+---
+
+## Towed Array Construction
+**Linear arrays**
+[Add updated info to 2013 paper]
+
+A guide to constructing hydrophone arrays for passive acoustic data collection during NMFS shipboard cetacean surveys. 2013. Shannon Rankin, Jay Barlow, Yvonne Barkley, Robert Valtierra. [Link to online report here.](https://repository.library.noaa.gov/view/noaa/4443)
+
+A guide to constructing hydrophones and hydrophone arrays for monitoring marine mammal vocalizations. 2008. Jay Barlow, Shannon Rankin, Steve Dawson. [Link to online report here.](https://repository.library.noaa.gov/view/noaa/3620)
+
+**Tetrahedral Arrays**
+Development and testing of two towed volumetric hydrophone array prototypes to improve localization accuracy during shipboard line-transect surveys. 2016. Yvonne Barkley, Jay Barlow, Shannon Rankin, Geral D'Spain, Erin Oleson. [Link to online report here.](https://repository.library.noaa.gov/view/noaa/8699)
+
