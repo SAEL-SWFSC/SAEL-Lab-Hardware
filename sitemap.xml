@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://SAEL-SWFSC.github.io/SAEL-Lab-Hardware/content/handheld-hydrophone.html</loc>
-    <lastmod>2022-12-01T20:57:24.730Z</lastmod>
+    <loc>https://SAEL-SWFSC.github.io/SAEL-Lab-Hardware/index.html</loc>
+    <lastmod>2024-11-08T23:53:07.020Z</lastmod>
   </url>
   <url>
-    <loc>https://SAEL-SWFSC.github.io/SAEL-Lab-Hardware/content/publishing.html</loc>
-    <lastmod>2022-12-01T20:57:25.786Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SAEL-SWFSC.github.io/SAEL-Lab-Hardware/content/code.html</loc>
-    <lastmod>2022-12-01T20:57:26.890Z</lastmod>
+    <loc>https://SAEL-SWFSC.github.io/SAEL-Lab-Hardware/content/sonobuoys.html</loc>
+    <lastmod>2024-11-08T23:53:07.020Z</lastmod>
   </url>
   <url>
     <loc>https://SAEL-SWFSC.github.io/SAEL-Lab-Hardware/content/acknowledgements.html</loc>
-    <lastmod>2022-12-01T20:57:27.234Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SAEL-SWFSC.github.io/SAEL-Lab-Hardware/content/rendering.html</loc>
-    <lastmod>2022-12-01T20:57:27.570Z</lastmod>
-  </url>
-  <url>
-    <loc>https://SAEL-SWFSC.github.io/SAEL-Lab-Hardware/content/customizing.html</loc>
-    <lastmod>2022-12-01T20:57:27.926Z</lastmod>
+    <lastmod>2024-11-08T23:53:07.012Z</lastmod>
   </url>
   <url>
     <loc>https://SAEL-SWFSC.github.io/SAEL-Lab-Hardware/content/rmarkdown.html</loc>
-    <lastmod>2022-12-01T20:57:29.314Z</lastmod>
+    <lastmod>2024-11-08T23:53:07.020Z</lastmod>
   </url>
   <url>
-    <loc>https://SAEL-SWFSC.github.io/SAEL-Lab-Hardware/index.html</loc>
-    <lastmod>2022-12-01T20:57:29.666Z</lastmod>
+    <loc>https://SAEL-SWFSC.github.io/SAEL-Lab-Hardware/content/towed-hydrophones.html</loc>
+    <lastmod>2024-11-08T23:53:07.020Z</lastmod>
+  </url>
+  <url>
+    <loc>https://SAEL-SWFSC.github.io/SAEL-Lab-Hardware/content/code.html</loc>
+    <lastmod>2024-11-08T23:53:07.012Z</lastmod>
+  </url>
+  <url>
+    <loc>https://SAEL-SWFSC.github.io/SAEL-Lab-Hardware/content/handheld-hydrophone.html</loc>
+    <lastmod>2024-11-08T23:53:07.012Z</lastmod>
+  </url>
+  <url>
+    <loc>https://SAEL-SWFSC.github.io/SAEL-Lab-Hardware/content/publishing.html</loc>
+    <lastmod>2024-11-08T23:53:07.020Z</lastmod>
   </url>
 </urlset>

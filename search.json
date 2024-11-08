@@ -1,94 +1,23 @@
 [
   {
-    "objectID": "content/handheld-hydrophone.html",
-    "href": "content/handheld-hydrophone.html",
-    "title": "Handheld Hydrophone User Manual",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lab Hardware",
     "section": "",
-    "text": "The following information is for the use of NOAA Fisheries Southwest Acoustic Ecology Lab. The checklists and steps are specific to their usage and may not apply to all required purposes of the Handheld Hydrophone. Please reference device websites and manuals found in the Resources section below for more information for applying this device to your specific project and goals. See this video for a simple overview of recording with the Handheld Hydrophone."
+    "text": "This hardware manual serves as the go-to handbook for all SAEL hardware information, methods, and manuals.",
+    "crumbs": [
+      "Home"
+    ]
   },
   {
-    "objectID": "content/handheld-hydrophone.html#equipment-list",
-    "href": "content/handheld-hydrophone.html#equipment-list",
-    "title": "Handheld Hydrophone User Manual",
-    "section": "Equipment List",
-    "text": "Equipment List\n\n\n\n\n\n\n\n\nHome\nEquipment\nNotes\n\n\n\n\nHydrophone case\nHydrophone Cable\n\n\n\nHydrophone case\nPre Amplifier\n\n\n\nHydrophone case\nManuals & other paperwork\nManuals & Help Center in resources section\n\n\nHandy Recorder Plastic Bag\nHandy Recorder Device\n\n\n\nHandy Recorder Plastic Bag\nHandy Recorder manuals & other paperwork\nManuals & Help Center in resources section\n\n\nHandy Recorder Plastic Bag\nHandy Recorder USB 2.0 (USB Mini B) adapter\nUsed for direct connection to computer\n\n\nHandy Recorder Plastic Bag\nHandy Recorder AC power adapter\nNot necessary if using batteries\n\n\nHandy Audio Interface Box\nAudio Interface\n\n\n\nHandy Audio Interface Box\nBus power cable\nUsed for direct connection to computer\n\n\nHandy Audio Interface Box\nUSB power cable\nNot needed if using batteries or bus power cable\n\n\nHandy Audio Interface Box\nUSB Wall Charger\nNot needed unless using USB power cable\n\n\nLoose in box\nHeadphones\n\n\n\nSpeaker Box\nSpeaker\n\n\n\nSpeaker Box\nUSB-C charger\nNeed USB wall charger\n\n\nAdditional parts bag\nSpare AA batteries\nUsed for both Recorder & Audio Interface\n\n\nAdditional parts bag\nSpare SD card\n\n\n\nLaptop Case\nLaptop"
-  },
-  {
-    "objectID": "content/handheld-hydrophone.html#pre-fieldwork",
-    "href": "content/handheld-hydrophone.html#pre-fieldwork",
-    "title": "Handheld Hydrophone User Manual",
-    "section": "Pre-Fieldwork ",
-    "text": "Pre-Fieldwork \nComplete all following checklists and steps prior to taking and using the Handheld Hydrophone in the field.\n\nPre-Fieldwork Checklist\n\n\n\nRelated Device\nTask\nComments\n\n\n\n\nAll\nEnsure all necessary components from equipment list are in clear box\n\n\n\nHydrophone\nHydrophone safe in case and secure for travel\n\n\n\nHydrophone\nTest hydrophone with Handy Recorder\nAdditional steps here\n\n\nHandy Recorder\nCheck batteries in recorder\nBring additional batteries\n\n\nHandy Recorder\nChange settings as needed\nAdditional steps here\n\n\nHandy Recorder\nCheck for SD card and make sure it has space\nAdditional steps here. Bring additional SD cards\n\n\nAudio Interface\nCheck batteries in audio interface\nBring additional batteries\n\n\nSpeaker\nCheck battery level on speaker and charge if needed\n\n\n\nAll\nDo a full system test run\nAdditional Steps here\n\n\n\n\n\nTesting the Hydrophone with Handy Recorder\n**Take extra precaution when working with the hydrophone sensor end. Do not put excess pressure on or crush the hydrophone**\n\nRemove hydrophone, preamplifier, and Handy Recorder from box\nConnect the hydrophone to the preamplifier by plugging the yellow labeled end of the hydrophone to the preamplifier box and twist the hydrophone cable to lock them together \nConnect the other end of the preamplifier to the Handy Recorder, align three pins from preamplifier to the channel 1 recorder port, and click into place\nTurn on Handy Recorder using power button on the left side, and ensure the four channel (4CH) recording option is selected at the top (see help steps below in Recording Only With One Hydrophone (Single-Channel Recording))\n\nPress the record button once and lightly tap on each of the two attached microphones on top of the recorder, as well as the hydrophone\nCheck for signal changes on the recorder screen\n\nEach of the three recording bars (MIC L & R, IN 1) should be moving and the record button should be blinking red\nIf there is no signal change for the hydrophone, follow steps in Recorder Not Displaying Signal Change From Hydrophone section\nIf testing hydrophone in water, ensure only the end of the hydrophone is in the water, and no other components, including the preamplifier and recorder, get wet\n\n\nOnce both microphones and the hydrophone has been tested, press the stop button and turn off the recorder\nCarefully remove the preamplifier/hydrophone cable from the recorder (press metal tab on back of recorder port while pulling the cable)\nUntwist the hydrophone, pull cable from preamplifier, and return all components to hydrophone and recorder cases\n\n\n\nSetting Up and Changing Settings for Handy Recorder\n\nLoading an SD Card\nAn SD card is required to record and save on the Handy Recorder\n\nMake sure recorder power is off\nInsert SD card into slot on right side of the recorder\n\nCautions\n\nSD card must be 16MB to 32GB\nIf “Format Card” appears on the display startup, the SD card must be formatted for the device. Press DIAL and select YES to format the SD card for the H4n Pro\nClear SD card before recording to ensure there is ample space\n\n\n\nSingle-Channel Recording\nRecorder should be set up to record on 4 channels (two attached microphones and two channel ports on the bottom of the recorder where the hydrophone is plugged in). This is useful in the event you want to narrate what is happening at the surface while the hydrophone is recording (i.e. whales breaching at this time). Follow these steps to change to single channel recording, to only record with the hydrophone, not the attached microphones. (Follow steps and picture below)\n\nClick menu button on right side of Handy Recorder\nUse scroll wheel to go to Mode option and press scroll button in to select Mode\nUse scroll button to move to Stereo (single channel) and push scroll button in to select it \nRecorder screen should return to main screen and STEREO light indicator should be on\n\nPress the 1 button on bottom left of recorder, and channel 1 & 2 light indicators should turn on (may be on already) \n\nEnsure mic button is not lit up \n\nRecorder is now ready to record with only the hydrophone on channel 1\n\n\n\nSetting the Date and Time\nThe date/time should be correctly set. If it is not, complete these steps to check the date/time and correct it.\n\nPress Menu button on left side of the recorder\nUse scroll wheel on left side of recorder to navigate to SYSTEM, press scroll wheel in to select\nSelect DATE/TIME and press scroll wheel\nUse the scroll wheel to set the year, month, day, and time\nSelect OK and press scroll wheel\n\n\n\nUsing Stamina Mode\nIf you are anticipating that battery levels will be a concern while in the field, you can switch to stamina mode to conserve power. \n\nOn the back of the recorder, open the battery compartment and switch to stamina mode on\n\nThis will lengthen the battery life to roughly 11 hours depending on usage. When using this mode, the recorder can only record/playback in WAV 44.1kHz/16-bit and MP43 formats. This may limit some recorder function, see manual for more information.\n\n\n\n\nChanging the Folder Location\nYou can manually select which folder you would like the recorder to save files to. It will default to Folder 1 (1 out of 10), and will save a new file for each recording. To change the file, follow these steps;\n\nPress the menu button on right side of the recorder\nUse scroll wheel to select folder\nChoose which folder you want to store your recordings in and push down on the scroll wheel to select\n\nWhen you are done recording, you can move the files out of one of the preset folders, into your own folder with a more descriptive naming format."
-  },
-  {
-    "objectID": "content/handheld-hydrophone.html#how-to-use-handheld-hydrophone-in-the-field",
-    "href": "content/handheld-hydrophone.html#how-to-use-handheld-hydrophone-in-the-field",
-    "title": "Handheld Hydrophone User Manual",
-    "section": "How to Use Handheld Hydrophone in the field",
-    "text": "How to Use Handheld Hydrophone in the field\n\nDevice Set-Up\n **Take extra precaution when working with these electrical components around water. Do not put excess pressure on or crush the hydrophone receiver end. Do not get any piece of the device wet, other than the hydrophone cable**\n\nRemove all necessary components and place on a clean, dry surface\nConnect the hydrophone to the preamplifier by plugging them together and twisting the hydrophone wire to lock them together\nConnect the other end of the preamplifier to the Handy Recorder, align three pins from preamplifier to the channel 1 recorder port, and click into place \nConnect the Recorder to the Laptop\nConnect the bluetooth speaker to the computer\nPower on all devices including recorder, audio interface, computer, and speaker\nTest recorder using steps found in Testing the Hydrophone with Handy Recorder\n\n\n\nRecording with the Handheld Hydrophone (no playback)\n\nEnsure all components of the Handheld Hydrophone are secure and in a dry place \nDrop hydrophone receiver end into the water \n\nEnsure no components other than the hydrophone get wet\n\nPress record button, look for signal changes on screen\nPress record button again to start recording\nAfter sampling, press stop button to stop recording\n\n\n\nUsing the Handy Recorder as an Audio Interface (real-time playback)\n\nConnect hydrophone and pre-amplifier to the Handy Recorder channel 1\nConnect Handy Recorder to computer through the USB cable\nHandy Recorder should automatically turn on\nUse scroll wheel to choose audio interface option (AUDIO I/F\nUse the scroll wheel to change the Frequency to 48kHz\nUse the scroll wheel to select connect and the recorder will establish connection to the computer, once connected you should see audio signals changing on the recorder screen\n\nClick on channel 1 to ensure the hydrophone is the chosen audio input\nOpen up your sound settings on your computer and find the output and input options\nEnsure output is set to correct speaker (Bluetooth Sony speaker)\nEnsure input is set to Zoom Recording Mixer (Zoom H and F series Audio)\nOpen the Sound Control Panel on your computer\nClick on the recording tab and open up the properties for the Zoom Recording Mixer\nSelect the box to listen to this device, and press OK\nAudio from the hydrophone should start playing out of your chosen speaker\nDrop the hydrophone receiver end into the water, ensure all other components of the array do not get wet\n\n\n\nPost-Fieldwork Checklist\nComplete the following steps to ensure the Handheld Hydrophone is properly cleaned and stored for next usage.\n\n\n\n\n\n\n\n\nRelated Device\nTask\nComments\n\n\n\n\nHydrophone\nFreshwater rinse and dry hydrophone cable\nEnsure no parts, other than hydrophone cable, get wet\n\n\nHydrophone\nStore hydrophone securely for travel\nTake note to secure hydrophone receiver end\n\n\nAll\nTurn off and return all other components to main box\nEnsure no saltwater or residue is left on any parts"
-  },
-  {
-    "objectID": "content/handheld-hydrophone.html#additional-information",
-    "href": "content/handheld-hydrophone.html#additional-information",
-    "title": "Handheld Hydrophone User Manual",
-    "section": "Additional Information",
-    "text": "Additional Information\nUseful place for FAQs, common issues, etc. \n\nAccessing Recorder Files\nThere are three methods for accessing the files the Handy Recorder has saved; playback on the recorder, plug recorder into computer to access files, or remove SD card and plug it into a computer to access the files\n\n\nRecorder Connected to Computer\n\nConnect Handy Recorder to computer through the USB cable\nHandy Recorder should automatically turn on\nUse scroll wheel to choose storage option\nConnection will be established between the recorder and the computer, and a new windows explorer window will appear with the files that have been recorded to the SD card on it\nNavigate to the desired folder and .wav files of your recordings will appear\n\n\n\nSD Card\n\nRemove the SD card from the Handy Recorder\nPlug SD card into the computer and the windows explorer window will appear\nNavigate to the desired folder and .wav files of your recordings will appear\n\n\n\n\nRecorder Not Displaying Signal Change From Hydrophone\nComplete the following steps if there is no change in signal being displayed on the recorder.\n\nClick on menu button on right side of the recorder and use the scroll wheel to navigate and select INPUT from the menu\nUse the scroll wheel to select PHANTOM\nChange the phantom power to +48V if not there already\nRetest hydrophone and look for changes in signals"
-  },
-  {
-    "objectID": "content/handheld-hydrophone.html#resources",
-    "href": "content/handheld-hydrophone.html#resources",
-    "title": "Handheld Hydrophone User Manual",
-    "section": "Resources",
-    "text": "Resources\n\nZoom H4n Pro Handy Recorder\n\nOperation Manual\n\n\nQuick Guide\n\n\nHelp Center\n\n\nNames & Function of Parts"
-  },
-  {
-    "objectID": "content/publishing.html",
-    "href": "content/publishing.html",
-    "title": "Publishing",
+    "objectID": "content/sonobuoys.html",
+    "href": "content/sonobuoys.html",
+    "title": "Sonobuoys",
     "section": "",
-    "text": "To get your Quarto webpage to show up with the url\nyou have a few steps."
-  },
-  {
-    "objectID": "content/publishing.html#turn-on-github-pages-for-your-repo",
-    "href": "content/publishing.html#turn-on-github-pages-for-your-repo",
-    "title": "Publishing",
-    "section": "Turn on GitHub Pages for your repo",
-    "text": "Turn on GitHub Pages for your repo\n\nTurn on GitHub Pages under Settings > Pages . You will set pages to be made from the gh-pages branch and the root directory.\nTurn on GitHub Actions under Settings > Actions > General\n\nThe GitHub Action will automatically recreate your website when you push to GitHub after you do the initial gh-pages set-up"
-  },
-  {
-    "objectID": "content/publishing.html#do-your-first-publish-to-gh-pages",
-    "href": "content/publishing.html#do-your-first-publish-to-gh-pages",
-    "title": "Publishing",
-    "section": "Do your first publish to gh-pages",
-    "text": "Do your first publish to gh-pages\nThe first time you publish to gh-pages, you need to do so locally.\n\nOn your local computer, open a terminal window and cd to your repo directory. Here is what that cd command looks like for me. You command will look different because your local repo will be somewhere else on your computer.\n\ncd ~/Documents/GitHub/NOAA-quarto-simple\n\nPublish to the gh-pages. In the terminal type\n\nquarto publish gh-pages\nThis is going to render your webpage and then push the _site contents to the gh-pages branch."
-  },
-  {
-    "objectID": "content/publishing.html#dont-like-using-gh-pages",
-    "href": "content/publishing.html#dont-like-using-gh-pages",
-    "title": "Publishing",
-    "section": "Don’t like using gh-pages?",
-    "text": "Don’t like using gh-pages?\nIn some cases, you don’t want your website on the gh-pages branch. For example, if you are creating releases and you want the website pages archived in that release, then you won’t want your website pages on the gh-pages branch.\nHere are the changes you need to make if you to avoid gh-pages branch.\n\nAt the top of _quarto.yml add the following:\n\nproject: \n  type: website\n  output-dir: docs\n\nOn GitHub under Settings > Pages set pages to be made from the main branch and the docs directory.\nMake sure docs is not listed in .gitignore\nPublish the site the first time locally using quarto publish from the terminal\nChange the GitHub Action because you can’t use quarto publish gh-pages. You’ll need to push to the main branch yourself (in the GitHub Action)\n\non:\n  push:\n    branches: main\n\nname: Render and Publish\n\njobs:\n  build-deploy:\n    runs-on: ubuntu-latest\n    env:\n      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}\n\n    steps:\n      - name: Check out repository\n        uses: actions/checkout@v2 \n        \n      - name: Set up R (needed for Rmd)\n        uses: r-lib/actions/setup-r@v2\n\n      - name: Install packages (needed for Rmd)\n        run: Rscript -e 'install.packages(c(\"rmarkdown\", \"knitr\", \"jsonlite\"))'\n\n      - name: Set up Quarto\n        uses: quarto-dev/quarto-actions/setup@v2\n        with:\n          # To install LaTeX to build PDF book \n          # tinytex: true \n          # uncomment below and fill to pin a version\n          # version: 0.9.600\n      \n      - name: Render Quarto Project\n        uses: quarto-dev/quarto-actions/render@v2\n        with:\n          to: html\n\n      - name: Set up Git\n        run: |\n          git config --local user.email \"actions@github.com\"\n          git config --local user.name \"GitHub Actions\"\n\n      - name: Commit all changes and push\n        run: |\n          git add -A && git commit -m 'Build site' || echo \"No changes to commit\"\n          git push origin || echo \"No changes to commit\""
-  },
-  {
-    "objectID": "content/code.html",
-    "href": "content/code.html",
-    "title": "Rendering with Code",
-    "section": "",
-    "text": "You can have code (R, Python or Julia) in your qmd file. You will need to have these installed on your local computer, but presumably you do already if you are adding code to your qmd files."
-  },
-  {
-    "objectID": "content/code.html#modify-the-github-action",
-    "href": "content/code.html#modify-the-github-action",
-    "title": "Rendering with Code",
-    "section": "Modify the GitHub Action",
-    "text": "Modify the GitHub Action\nYou will need to change the GitHub Action in .github/workflows to install these and any needed packages in order for GitHub to be able to render your webpage. The GitHub Action install R since I used that in code.qmd. If you use Python or Julia instead, then you will need to update the GitHub Action to install those.\nIf getting the GitHub Action to work is too much hassle (and that definitely happens), you can alway render locally and publish to the gh-pages branch. If you do this, make sure to delete or rename the GitHub Action to something like\nrender-and-publish.old_yml\nso GitHub does not keep trying to run it. Nothing bad will happen if you don’t do this, but if you are not using the action (because it keeps failing), then you don’t need GitHub to run it."
-  },
-  {
-    "objectID": "content/code.html#render-locally-and-publish-to-gh-pages-branch",
-    "href": "content/code.html#render-locally-and-publish-to-gh-pages-branch",
-    "title": "Rendering with Code",
-    "section": "Render locally and publish to gh-pages branch",
-    "text": "Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages"
+    "text": "Sonobuoys are expendable drifting recorders with vector sensing hydrophones deployed at depth, and signal is transmitted via radio frequency from the buoy to a nearby receiver for recording. Surplus Navy sonobuoys have been provided periodically for our shipboard surveys.\nIn 2019 we completed research funded by the Navy’s Living Marine Resources to study the potential to use sonobuoys during large scale surveys for population estimation of marine mammals. During this dedicated research project, our understanding of the strengths and limitations of sonobuoys was expanded, and we identified a few myths that had been transmitted through the bioacoustics community. In an effort to share learned best practices, the following report was developed:\nSonobuoy Acoustic Data Collection during Cetacean Surveys. 2019. Shannon Rankin, Brian Miller, Jessica Crance, Taiki Sakai, and Jennifer L. Keating. Link to online report here.",
+    "crumbs": [
+      "Sonobuoys"
+    ]
   },
   {
     "objectID": "content/acknowledgements.html",
@@ -96,48 +25,6 @@
     "title": "Acknowledgments",
     "section": "",
     "text": "This repo and GitHub Action was based on the tutorial by Openscapes quarto-website-tutorial by Julia Lowndes and Stefanie Butland."
-  },
-  {
-    "objectID": "content/rendering.html",
-    "href": "content/rendering.html",
-    "title": "Rendering",
-    "section": "",
-    "text": "The repo includes a GitHub Action that will render (build) the website automatically when you make changes to the files. It will be pushed to the gh-pages branch.\nBut when you are developing your content, you will want to render it locally."
-  },
-  {
-    "objectID": "content/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
-    "href": "content/rendering.html#step-1.-make-sure-you-have-a-recent-rstudio",
-    "title": "Rendering",
-    "section": "Step 1. Make sure you have a recent RStudio",
-    "text": "Step 1. Make sure you have a recent RStudio\nHave you updated RStudio since about August 2022? No? Then update to a newer version of RStudio. In general, you want to keep RStudio updated and it is required to have a recent version to use Quarto."
-  },
-  {
-    "objectID": "content/rendering.html#step-2.-clone-and-create-rstudio-project",
-    "href": "content/rendering.html#step-2.-clone-and-create-rstudio-project",
-    "title": "Rendering",
-    "section": "Step 2. Clone and create RStudio project",
-    "text": "Step 2. Clone and create RStudio project\nFirst, clone the repo onto your local computer. How? You can click File > New Project and then select “Version Control”. Paste in the url of the repository. That will clone the repo on to your local computer. When you make changes, you will need to push those up."
-  },
-  {
-    "objectID": "content/rendering.html#step-3.-render-within-rstudio",
-    "href": "content/rendering.html#step-3.-render-within-rstudio",
-    "title": "Rendering",
-    "section": "Step 3. Render within RStudio",
-    "text": "Step 3. Render within RStudio\nRStudio will recognize that this is a Quarto project by the presence of the _quarto.yml file and will see the “Build” tab. Click the “Render website” button to render to the _site folder.\nPreviewing: You can either click index.html in the _site folder and specify “preview in browser” or set up RStudio to preview to the viewer panel. To do the latter, go to Tools > Global Options > R Markdown. Then select “Show output preview in: Viewer panel”."
-  },
-  {
-    "objectID": "content/customizing.html",
-    "href": "content/customizing.html",
-    "title": "Customization",
-    "section": "",
-    "text": "Quarto allow many bells and whistles to make nice output. Read the documentation here Quarto documentation."
-  },
-  {
-    "objectID": "content/customizing.html#examples",
-    "href": "content/customizing.html#examples",
-    "title": "Customization",
-    "section": "Examples",
-    "text": "Examples\nLooking at other people’s Quarto code is a great way to figure out how to do stuff. Most will have a link to a GitHub repo where you can see the raw code. Look for a link to edit page or see source code. This will usually be on the right. Or look for the GitHub icon somewhere.\n\nQuarto gallery\nnmfs-openscapes\nFaye lab manual\nquarto-titlepages Note the link to edit is broken. Go to repo and look in documentation directory."
   },
   {
     "objectID": "content/rmarkdown.html",
@@ -158,13 +45,129 @@
     "href": "content/rmarkdown.html#including-plots",
     "title": "R Markdown",
     "section": "Including Plots",
-    "text": "Including Plots\nYou can also embed plots, for example:\n\n\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot."
+    "text": "Including Plots\nYou can also embed plots, for example:\n\n\n\n\n\n\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Lab Hardware",
+    "objectID": "content/towed-hydrophones.html",
+    "href": "content/towed-hydrophones.html",
+    "title": "Towed Array",
     "section": "",
-    "text": "This hardware manual serves as the go-to handbook for all SAEL hardware information, methods, and manuals."
+    "text": "Linear arrays [Add updated info to 2013 paper]\nA guide to constructing hydrophone arrays for passive acoustic data collection during NMFS shipboard cetacean surveys. 2013. Shannon Rankin, Jay Barlow, Yvonne Barkley, Robert Valtierra. Link to online report here.\nA guide to constructing hydrophones and hydrophone arrays for monitoring marine mammal vocalizations. 2008. Jay Barlow, Shannon Rankin, Steve Dawson. Link to online report here.\nTetrahedral Arrays Development and testing of two towed volumetric hydrophone array prototypes to improve localization accuracy during shipboard line-transect surveys. 2016. Yvonne Barkley, Jay Barlow, Shannon Rankin, Geral D’Spain, Erin Oleson. Link to online report here."
+  },
+  {
+    "objectID": "content/towed-hydrophones.html#towed-array-construction",
+    "href": "content/towed-hydrophones.html#towed-array-construction",
+    "title": "Towed Array",
+    "section": "",
+    "text": "Linear arrays [Add updated info to 2013 paper]\nA guide to constructing hydrophone arrays for passive acoustic data collection during NMFS shipboard cetacean surveys. 2013. Shannon Rankin, Jay Barlow, Yvonne Barkley, Robert Valtierra. Link to online report here.\nA guide to constructing hydrophones and hydrophone arrays for monitoring marine mammal vocalizations. 2008. Jay Barlow, Shannon Rankin, Steve Dawson. Link to online report here.\nTetrahedral Arrays Development and testing of two towed volumetric hydrophone array prototypes to improve localization accuracy during shipboard line-transect surveys. 2016. Yvonne Barkley, Jay Barlow, Shannon Rankin, Geral D’Spain, Erin Oleson. Link to online report here."
+  },
+  {
+    "objectID": "content/code.html",
+    "href": "content/code.html",
+    "title": "Rendering with Code",
+    "section": "",
+    "text": "You can have code (R, Python or Julia) in your qmd file. You will need to have these installed on your local computer, but presumably you do already if you are adding code to your qmd files.\nx &lt;- c(5, 15, 25, 35, 45, 55)\ny &lt;- c(5, 20, 14, 32, 22, 38)\nlm(x ~ y)\n\n\nCall:\nlm(formula = x ~ y)\n\nCoefficients:\n(Intercept)            y  \n      1.056        1.326"
+  },
+  {
+    "objectID": "content/code.html#modify-the-github-action",
+    "href": "content/code.html#modify-the-github-action",
+    "title": "Rendering with Code",
+    "section": "Modify the GitHub Action",
+    "text": "Modify the GitHub Action\nYou will need to change the GitHub Action in .github/workflows to install these and any needed packages in order for GitHub to be able to render your webpage. The GitHub Action install R since I used that in code.qmd. If you use Python or Julia instead, then you will need to update the GitHub Action to install those.\nIf getting the GitHub Action to work is too much hassle (and that definitely happens), you can alway render locally and publish to the gh-pages branch. If you do this, make sure to delete or rename the GitHub Action to something like\nrender-and-publish.old_yml\nso GitHub does not keep trying to run it. Nothing bad will happen if you don’t do this, but if you are not using the action (because it keeps failing), then you don’t need GitHub to run it."
+  },
+  {
+    "objectID": "content/code.html#render-locally-and-publish-to-gh-pages-branch",
+    "href": "content/code.html#render-locally-and-publish-to-gh-pages-branch",
+    "title": "Rendering with Code",
+    "section": "Render locally and publish to gh-pages branch",
+    "text": "Render locally and publish to gh-pages branch\nTo render locally and push up to the gh-pages branch, open a terminal window and then cd to the directory with the Quarto project. Type this in the terminal:\nquarto render gh-pages"
+  },
+  {
+    "objectID": "content/handheld-hydrophone.html",
+    "href": "content/handheld-hydrophone.html",
+    "title": "Handheld Hydrophone User Manual",
+    "section": "",
+    "text": "The following information is for the use of NOAA Fisheries Southwest Acoustic Ecology Lab. The checklists and steps are specific to their usage and may not apply to all required purposes of the Handheld Hydrophone. Please reference device websites and manuals found in the Resources section below for more information for applying this device to your specific project and goals. See this video for a simple overview of recording with the Handheld Hydrophone.",
+    "crumbs": [
+      "Handheld Hydrophone"
+    ]
+  },
+  {
+    "objectID": "content/handheld-hydrophone.html#equipment-list",
+    "href": "content/handheld-hydrophone.html#equipment-list",
+    "title": "Handheld Hydrophone User Manual",
+    "section": "Equipment List",
+    "text": "Equipment List\n\n\n\n\n\n\n\n\nHome\nEquipment\nNotes\n\n\n\n\nHydrophone case\nHydrophone Cable\n\n\n\nHydrophone case\nPre Amplifier\n\n\n\nHydrophone case\nManuals & other paperwork\nManuals & Help Center in resources section\n\n\nHandy Recorder Plastic Bag\nHandy Recorder Device\n\n\n\nHandy Recorder Plastic Bag\nHandy Recorder manuals & other paperwork\nManuals & Help Center in resources section\n\n\nHandy Recorder Plastic Bag\nHandy Recorder USB 2.0 (USB Mini B) adapter\nUsed for direct connection to computer\n\n\nHandy Recorder Plastic Bag\nHandy Recorder AC power adapter\nNot necessary if using batteries\n\n\nHandy Audio Interface Box\nAudio Interface\n\n\n\nHandy Audio Interface Box\nBus power cable\nUsed for direct connection to computer\n\n\nHandy Audio Interface Box\nUSB power cable\nNot needed if using batteries or bus power cable\n\n\nHandy Audio Interface Box\nUSB Wall Charger\nNot needed unless using USB power cable\n\n\nLoose in box\nHeadphones\n\n\n\nSpeaker Box\nSpeaker\n\n\n\nSpeaker Box\nUSB-C charger\nNeed USB wall charger\n\n\nAdditional parts bag\nSpare AA batteries\nUsed for both Recorder & Audio Interface\n\n\nAdditional parts bag\nSpare SD card\n\n\n\nLaptop Case\nLaptop",
+    "crumbs": [
+      "Handheld Hydrophone"
+    ]
+  },
+  {
+    "objectID": "content/handheld-hydrophone.html#pre-fieldwork",
+    "href": "content/handheld-hydrophone.html#pre-fieldwork",
+    "title": "Handheld Hydrophone User Manual",
+    "section": "Pre-Fieldwork ",
+    "text": "Pre-Fieldwork \nComplete all following checklists and steps prior to taking and using the Handheld Hydrophone in the field.\n\nPre-Fieldwork Checklist\n\n\n\nRelated Device\nTask\nComments\n\n\n\n\nAll\nEnsure all necessary components from equipment list are in clear box\n\n\n\nHydrophone\nHydrophone safe in case and secure for travel\n\n\n\nHydrophone\nTest hydrophone with Handy Recorder\nAdditional steps here\n\n\nHandy Recorder\nCheck batteries in recorder\nBring additional batteries\n\n\nHandy Recorder\nChange settings as needed\nAdditional steps here\n\n\nHandy Recorder\nCheck for SD card and make sure it has space\nAdditional steps here. Bring additional SD cards\n\n\nAudio Interface\nCheck batteries in audio interface\nBring additional batteries\n\n\nSpeaker\nCheck battery level on speaker and charge if needed\n\n\n\nAll\nDo a full system test run\nAdditional Steps here\n\n\n\n\n\nTesting the Hydrophone with Handy Recorder\n**Take extra precaution when working with the hydrophone sensor end. Do not put excess pressure on or crush the hydrophone**\n\nRemove hydrophone, preamplifier, and Handy Recorder from box\nConnect the hydrophone to the preamplifier by plugging the yellow labeled end of the hydrophone to the preamplifier box and twist the hydrophone cable to lock them together \nConnect the other end of the preamplifier to the Handy Recorder, align three pins from preamplifier to the channel 1 recorder port, and click into place\nTurn on Handy Recorder using power button on the left side, and ensure the four channel (4CH) recording option is selected at the top (see help steps below in Recording Only With One Hydrophone (Single-Channel Recording))\n\nPress the record button once and lightly tap on each of the two attached microphones on top of the recorder, as well as the hydrophone\nCheck for signal changes on the recorder screen\n\nEach of the three recording bars (MIC L & R, IN 1) should be moving and the record button should be blinking red\nIf there is no signal change for the hydrophone, follow steps in Recorder Not Displaying Signal Change From Hydrophone section\nIf testing hydrophone in water, ensure only the end of the hydrophone is in the water, and no other components, including the preamplifier and recorder, get wet\n\n\nOnce both microphones and the hydrophone has been tested, press the stop button and turn off the recorder\nCarefully remove the preamplifier/hydrophone cable from the recorder (press metal tab on back of recorder port while pulling the cable)\nUntwist the hydrophone, pull cable from preamplifier, and return all components to hydrophone and recorder cases\n\n\n\nSetting Up and Changing Settings for Handy Recorder\n\nLoading an SD Card\nAn SD card is required to record and save on the Handy Recorder\n\nMake sure recorder power is off\nInsert SD card into slot on right side of the recorder\n\nCautions\n\nSD card must be 16MB to 32GB\nIf “Format Card” appears on the display startup, the SD card must be formatted for the device. Press DIAL and select YES to format the SD card for the H4n Pro\nClear SD card before recording to ensure there is ample space\n\n\n\nSingle-Channel Recording\nRecorder should be set up to record on 4 channels (two attached microphones and two channel ports on the bottom of the recorder where the hydrophone is plugged in). This is useful in the event you want to narrate what is happening at the surface while the hydrophone is recording (i.e. whales breaching at this time). Follow these steps to change to single channel recording, to only record with the hydrophone, not the attached microphones. (Follow steps and picture below)\n\nClick menu button on right side of Handy Recorder\nUse scroll wheel to go to Mode option and press scroll button in to select Mode\nUse scroll button to move to Stereo (single channel) and push scroll button in to select it \nRecorder screen should return to main screen and STEREO light indicator should be on\n\nPress the 1 button on bottom left of recorder, and channel 1 & 2 light indicators should turn on (may be on already) \n\nEnsure mic button is not lit up \n\nRecorder is now ready to record with only the hydrophone on channel 1\n\n\n\nSetting the Date and Time\nThe date/time should be correctly set. If it is not, complete these steps to check the date/time and correct it.\n\nPress Menu button on left side of the recorder\nUse scroll wheel on left side of recorder to navigate to SYSTEM, press scroll wheel in to select\nSelect DATE/TIME and press scroll wheel\nUse the scroll wheel to set the year, month, day, and time\nSelect OK and press scroll wheel\n\n\n\nUsing Stamina Mode\nIf you are anticipating that battery levels will be a concern while in the field, you can switch to stamina mode to conserve power. \n\nOn the back of the recorder, open the battery compartment and switch to stamina mode on\n\nThis will lengthen the battery life to roughly 11 hours depending on usage. When using this mode, the recorder can only record/playback in WAV 44.1kHz/16-bit and MP43 formats. This may limit some recorder function, see manual for more information.\n\n\n\n\nChanging the Folder Location\nYou can manually select which folder you would like the recorder to save files to. It will default to Folder 1 (1 out of 10), and will save a new file for each recording. To change the file, follow these steps;\n\nPress the menu button on right side of the recorder\nUse scroll wheel to select folder\nChoose which folder you want to store your recordings in and push down on the scroll wheel to select\n\nWhen you are done recording, you can move the files out of one of the preset folders, into your own folder with a more descriptive naming format.",
+    "crumbs": [
+      "Handheld Hydrophone"
+    ]
+  },
+  {
+    "objectID": "content/handheld-hydrophone.html#how-to-use-handheld-hydrophone-in-the-field",
+    "href": "content/handheld-hydrophone.html#how-to-use-handheld-hydrophone-in-the-field",
+    "title": "Handheld Hydrophone User Manual",
+    "section": "How to Use Handheld Hydrophone in the field",
+    "text": "How to Use Handheld Hydrophone in the field\n\nDevice Set-Up\n **Take extra precaution when working with these electrical components around water. Do not put excess pressure on or crush the hydrophone receiver end. Do not get any piece of the device wet, other than the hydrophone cable**\n\nRemove all necessary components and place on a clean, dry surface\nConnect the hydrophone to the preamplifier by plugging them together and twisting the hydrophone wire to lock them together\nConnect the other end of the preamplifier to the Handy Recorder, align three pins from preamplifier to the channel 1 recorder port, and click into place \nConnect the Recorder to the Laptop\nConnect the bluetooth speaker to the computer\nPower on all devices including recorder, audio interface, computer, and speaker\nTest recorder using steps found in Testing the Hydrophone with Handy Recorder\n\n\n\nRecording with the Handheld Hydrophone (no playback)\n\nEnsure all components of the Handheld Hydrophone are secure and in a dry place \nDrop hydrophone receiver end into the water \n\nEnsure no components other than the hydrophone get wet\n\nPress record button, look for signal changes on screen\nPress record button again to start recording\nAfter sampling, press stop button to stop recording\n\n\n\nUsing the Handy Recorder as an Audio Interface (real-time playback)\n\nConnect hydrophone and pre-amplifier to the Handy Recorder channel 1\nConnect Handy Recorder to computer through the USB cable\nHandy Recorder should automatically turn on\nUse scroll wheel to choose audio interface option (AUDIO I/F\nUse the scroll wheel to change the Frequency to 48kHz\nUse the scroll wheel to select connect and the recorder will establish connection to the computer, once connected you should see audio signals changing on the recorder screen\n\nClick on channel 1 to ensure the hydrophone is the chosen audio input\nOpen up your sound settings on your computer and find the output and input options\nEnsure output is set to correct speaker (Bluetooth Sony speaker)\nEnsure input is set to Zoom Recording Mixer (Zoom H and F series Audio)\nOpen the Sound Control Panel on your computer\nClick on the recording tab and open up the properties for the Zoom Recording Mixer\nSelect the box to listen to this device, and press OK\nAudio from the hydrophone should start playing out of your chosen speaker\nDrop the hydrophone receiver end into the water, ensure all other components of the array do not get wet\n\n\n\nPost-Fieldwork Checklist\nComplete the following steps to ensure the Handheld Hydrophone is properly cleaned and stored for next usage.\n\n\n\n\n\n\n\n\nRelated Device\nTask\nComments\n\n\n\n\nHydrophone\nFreshwater rinse and dry hydrophone cable\nEnsure no parts, other than hydrophone cable, get wet\n\n\nHydrophone\nStore hydrophone securely for travel\nTake note to secure hydrophone receiver end\n\n\nAll\nTurn off and return all other components to main box\nEnsure no saltwater or residue is left on any parts",
+    "crumbs": [
+      "Handheld Hydrophone"
+    ]
+  },
+  {
+    "objectID": "content/handheld-hydrophone.html#additional-information",
+    "href": "content/handheld-hydrophone.html#additional-information",
+    "title": "Handheld Hydrophone User Manual",
+    "section": "Additional Information",
+    "text": "Additional Information\nUseful place for FAQs, common issues, etc. \n\nAccessing Recorder Files\nThere are three methods for accessing the files the Handy Recorder has saved; playback on the recorder, plug recorder into computer to access files, or remove SD card and plug it into a computer to access the files\n\n\nRecorder Connected to Computer\n\nConnect Handy Recorder to computer through the USB cable\nHandy Recorder should automatically turn on\nUse scroll wheel to choose storage option\nConnection will be established between the recorder and the computer, and a new windows explorer window will appear with the files that have been recorded to the SD card on it\nNavigate to the desired folder and .wav files of your recordings will appear\n\n\n\nSD Card\n\nRemove the SD card from the Handy Recorder\nPlug SD card into the computer and the windows explorer window will appear\nNavigate to the desired folder and .wav files of your recordings will appear\n\n\n\n\nRecorder Not Displaying Signal Change From Hydrophone\nComplete the following steps if there is no change in signal being displayed on the recorder.\n\nClick on menu button on right side of the recorder and use the scroll wheel to navigate and select INPUT from the menu\nUse the scroll wheel to select PHANTOM\nChange the phantom power to +48V if not there already\nRetest hydrophone and look for changes in signals",
+    "crumbs": [
+      "Handheld Hydrophone"
+    ]
+  },
+  {
+    "objectID": "content/handheld-hydrophone.html#resources",
+    "href": "content/handheld-hydrophone.html#resources",
+    "title": "Handheld Hydrophone User Manual",
+    "section": "Resources",
+    "text": "Resources\n\nZoom H4n Pro Handy Recorder\n\nOperation Manual\n\n\nQuick Guide\n\n\nHelp Center\n\n\nNames & Function of Parts",
+    "crumbs": [
+      "Handheld Hydrophone"
+    ]
+  },
+  {
+    "objectID": "content/publishing.html",
+    "href": "content/publishing.html",
+    "title": "Publishing",
+    "section": "",
+    "text": "To get your Quarto webpage to show up with the url\nyou have a few steps."
+  },
+  {
+    "objectID": "content/publishing.html#turn-on-github-pages-for-your-repo",
+    "href": "content/publishing.html#turn-on-github-pages-for-your-repo",
+    "title": "Publishing",
+    "section": "Turn on GitHub Pages for your repo",
+    "text": "Turn on GitHub Pages for your repo\n\nTurn on GitHub Pages under Settings &gt; Pages . You will set pages to be made from the gh-pages branch and the root directory.\nTurn on GitHub Actions under Settings &gt; Actions &gt; General\n\nThe GitHub Action will automatically recreate your website when you push to GitHub after you do the initial gh-pages set-up"
+  },
+  {
+    "objectID": "content/publishing.html#do-your-first-publish-to-gh-pages",
+    "href": "content/publishing.html#do-your-first-publish-to-gh-pages",
+    "title": "Publishing",
+    "section": "Do your first publish to gh-pages",
+    "text": "Do your first publish to gh-pages\nThe first time you publish to gh-pages, you need to do so locally.\n\nOn your local computer, open a terminal window and cd to your repo directory. Here is what that cd command looks like for me. You command will look different because your local repo will be somewhere else on your computer.\n\ncd ~/Documents/GitHub/NOAA-quarto-simple\n\nPublish to the gh-pages. In the terminal type\n\nquarto publish gh-pages\nThis is going to render your webpage and then push the _site contents to the gh-pages branch."
+  },
+  {
+    "objectID": "content/publishing.html#dont-like-using-gh-pages",
+    "href": "content/publishing.html#dont-like-using-gh-pages",
+    "title": "Publishing",
+    "section": "Don’t like using gh-pages?",
+    "text": "Don’t like using gh-pages?\nIn some cases, you don’t want your website on the gh-pages branch. For example, if you are creating releases and you want the website pages archived in that release, then you won’t want your website pages on the gh-pages branch.\nHere are the changes you need to make if you to avoid gh-pages branch.\n\nAt the top of _quarto.yml add the following:\n\nproject: \n  type: website\n  output-dir: docs\n\nOn GitHub under Settings &gt; Pages set pages to be made from the main branch and the docs directory.\nMake sure docs is not listed in .gitignore\nPublish the site the first time locally using quarto publish from the terminal\nChange the GitHub Action because you can’t use quarto publish gh-pages. You’ll need to push to the main branch yourself (in the GitHub Action)\n\non:\n  push:\n    branches: main\n\nname: Render and Publish\n\njobs:\n  build-deploy:\n    runs-on: ubuntu-latest\n    env:\n      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}\n\n    steps:\n      - name: Check out repository\n        uses: actions/checkout@v2 \n        \n      - name: Set up R (needed for Rmd)\n        uses: r-lib/actions/setup-r@v2\n\n      - name: Install packages (needed for Rmd)\n        run: Rscript -e 'install.packages(c(\"rmarkdown\", \"knitr\", \"jsonlite\"))'\n\n      - name: Set up Quarto\n        uses: quarto-dev/quarto-actions/setup@v2\n        with:\n          # To install LaTeX to build PDF book \n          # tinytex: true \n          # uncomment below and fill to pin a version\n          # version: 0.9.600\n      \n      - name: Render Quarto Project\n        uses: quarto-dev/quarto-actions/render@v2\n        with:\n          to: html\n\n      - name: Set up Git\n        run: |\n          git config --local user.email \"actions@github.com\"\n          git config --local user.name \"GitHub Actions\"\n\n      - name: Commit all changes and push\n        run: |\n          git add -A && git commit -m 'Build site' || echo \"No changes to commit\"\n          git push origin || echo \"No changes to commit\""
   }
 ]
